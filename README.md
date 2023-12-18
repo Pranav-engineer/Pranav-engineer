@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pranav-engineer
 - 👀 I’m interested in ... Robotics
-- 🌱 I’m currently learning ... java and microcontroller programming
+- 🌱 I’m currently learning ... embedded systems
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
